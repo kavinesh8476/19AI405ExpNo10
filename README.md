@@ -1,6 +1,6 @@
 # ExpNo:10 Implementation of Classical Planning Algorithm
-Name: Kavinesh M<br>
-Register Number: 212222230064<br>
+### Name: Kavinesh M<br>
+### Register Number: 212222230064<br>
 
 # AIM:
 To solve Implementation of Classical Planning Algorithm using python.
